@@ -1,4 +1,4 @@
-# TITANIC SURVIVAL PREDICTION
+# PROJECT 1: TITANIC SURVIVAL PREDICTION
 **Project Overview: Titanic Survival Prediction Data Analysis**
 
 ### Objective
@@ -54,4 +54,38 @@ The dataset used for this project is the Titanic dataset, which contains informa
 - A detailed report and visualizations that effectively communicate the findings and model performance.
 
 This project provides an excellent opportunity to apply data analysis, machine learning, and data visualization techniques to a historical dataset, enhancing understanding and skills in predictive modeling.
+
+
+
+
+
+
+# PROJECT 2: SALES DATA ANALYSIS
+
+**Project Overview: E-Commerce Data Analysis**
+
+### Objective
+To analyze the provided e-commerce data to identify patterns, revenue indicators, and best-selling items. This analysis will help inform business decision-making and enhance data visualisation efforts by uncovering trends in customer behavior, product performance, and return patterns. The goal is to optimize inventory management, enhance customer satisfaction, and increase overall profitability.
+
+### Dataset Description
+The dataset used for this project is the Titanic E-Commerce dataset, which contains information about the Sales on the Business. The dataset includes the following tables:
+- **Orders**
+- **Returns**
+- **People** 
+
+### Measures Analyzed
+- Identified Total Sales
+- Analyzed Sales Trends Over-time
+- Determined the best-selling products
+
+### Tools and Technologies
+- Microsoft PowerBi
+- Power Query Editor
+
+### Expected Outcomes
+- Comprehensive understanding of total sales figures over a defined period.
+- Detailed analysis of sales trends over specific time intervals.
+- Insights into product performance by category, helping to identify the most profitable categories.
+
+This project provides an excellent opportunity to apply data analysis and data visualization techniques to a E-Commerce dataset, enhancing understanding and skills in Sales Analysis.
 
